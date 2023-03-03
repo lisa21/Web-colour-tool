@@ -1,12 +1,11 @@
-#  🎨 Color Tool | JavaScript 
+# Web Colour Tool | JavaScript 
 
-### **Change the luminosity with this Color Tool!**
+### **Change the shade with this Color Tool!**
 
->  ##### [Click here](https://ellenmariadev.github.io/color-tool/) to be redirected to the website.
+>  ##### [Click here](https://github.com/lisa21/Web-colour-tool) to be redirected to the website.
 
 
-
-![image](https://i.imgur.com/WqmYmnc.png)
+![image](https://imgur.com/qJqNWXk)
 
 
 ## Knowledge
